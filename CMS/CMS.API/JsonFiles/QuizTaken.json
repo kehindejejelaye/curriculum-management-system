@@ -1,0 +1,58 @@
+[
+  {
+
+    "Id": "b1f82756-3e0a-4cc3-bf7a-72e7c16f355d",
+    "UserId": "36e318aa-6d02-46d9-8048-3e2a8182a6c3",
+    "Preferredanswer": "I choose option a",
+    "QuizId": "b1f82756-3e0a-4cc3-bf7a-72e7c16f345d",
+    "CompletionStatus": false,
+    "DateCreated": "2023-02-11T17:45:20.8155623Z",
+    "DateUpdated": "2023-02-11T17:49:03.0096897Z",
+    "IsDeleted": false,
+    "CorrectAnswer": "This is correct"
+   
+
+
+  },
+  {
+    "Id": "b1f82756-3e0a-4cc3-bf7a-72e7c14f35d",
+    //"UserId": "4ce8e96f-b3f9-4510-8e8c-02d099e1f3bd",
+    "UserId": "36e318aa-6d02-46d9-8048-3e2a8182a6c3",
+    "Preferredanswer": "I choose option b",
+    "QuizId": "1eaf47dc-890d-4a2e-9a8b-d1e3b8ca56f2",
+    "CompletionStatus": false,
+    "DateCreated": "2023-02-11T17:46:20.8155623Z",
+    "DateUpdated": "2023-02-11T17:50:03.0096897Z",
+    "IsDeleted": false,
+    "CorrectAnswer": "I choose option b"
+
+  },
+  {
+    "Id": "b1f82756-3e0a-4cc3-bf7a-72e7c16f35d",
+    //"UserId": "311c0cf1-7c88-e221-c4ff-38ce6418a005",
+    "UserId": "36e318aa-6d02-46d9-8048-3e2a8182a6c3",
+    "Preferredanswer": "I choose option c",
+    "QuizId": "1eaf47dc-890d-4a3e-9a8b-d1e3b8ca66f2",
+    "CompletionStatus": false,
+    "DateCreated": "2023-02-11T17:46:20.8155623Z",
+    "DateUpdated": "2023-02-11T17:50:03.0096897Z",
+    "IsDeleted": false,
+    "CorrectAnswer": "I choose option c"
+
+  }
+  //{
+  //  "Id": "b1f82756-3e0a-4cc3-bf7a-72e7c16k35d",
+  //  //"UserId": "311c0cf1-7c88-e221-c4ff-38ce6418a005",
+  //  "UserId": "36e318aa-6d02-46d9-8048-3e2a8182a6c3",
+  //  "Preferredanswer": " ",
+  //  "QuizId": "1eaf47dc-890d-4a2e-9a8b-d1e3b8cb56f2",
+  //  "CompletionStatus": false,
+  //  "DateCreated": "2023-02-11T17:46:20.8155623Z",
+  //  "DateUpdated": "2023-02-11T17:50:03.0096897Z",
+  //  "IsDeleted": false,
+  //  "CorrectAnswer": "I choose option c"
+
+  //}
+
+
+]

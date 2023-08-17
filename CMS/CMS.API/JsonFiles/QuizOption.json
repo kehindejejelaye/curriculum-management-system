@@ -1,0 +1,37 @@
+[
+  {
+    "QuizId": "b1f82756-3e0a-4cc3-bf7a-72e7c16f346d",
+    "Questiontext": "Question",
+    "Option": [
+
+      "What is programming",
+      "What is C#",
+      "What is reflection",
+      "What is an interface"
+
+    ],
+
+    "DateCreated": "2023-05-23T11:00:00Z",
+    "DateUpdated": "2023-05-23T10:45:00Z",
+    " IsDeleted": "false"
+  },
+
+  {
+
+    "QuizId": "b1f82756-3e0a-4cc3-bf7a-72e7c16f349d",
+    "Option": [
+
+      "What is programming language",
+      "What is C# and VB.Net",
+      "What is reflectio in C#",
+      "What is an interface and polymorphism"
+
+    ],
+    "Questiontext": "Question",
+    "DateCreated": "2023-05-23T11:00:00Z",
+    "DateUpdated": "2023-05-23T10:45:00Z",
+    " IsDeleted": "true"
+
+  }
+
+]

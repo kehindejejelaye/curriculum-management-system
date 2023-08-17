@@ -1,0 +1,52 @@
+[
+  {
+
+    "Id": "b1f82756-3e0a-4cc3-bf7a-72e7c16f345d",
+    "CourseId": "974679eb-ba5e-9862-78e9-769d1be71fbd",
+    //"AddedById": "311c0cf1-7c88-e221-c4ff-38ce6418a005",
+    "AddedById":"36e318aa-6d02-46d9-8048-3e2a8182a6c3",
+    "Topic": "Hello world",
+    "VideoUrl": "Provide a concise definition of an adjective.",
+    "Text": "Why always me",
+    "PublicId": "002",
+    "Instruction": "please answer all questions",
+    "LessonId": "001",
+    "DateCreated": "2023-02-11T17:45:20.8155623Z",
+    "DateUpdated": "2023-02-11T17:49:03.0096897Z",
+    "IsDeleted": false
+
+
+  },
+  {
+    "Id": "1eaf47dc-890d-4a2e-9a8b-d1e3b8ca56f2",
+    //"CourseId": "974679eb-ba5e-9862-78e9-769d1be71fcd",
+    //"AddedById": "36e318aa-6d02-46d9-8048-3e2a8182a6c3",
+    "CourseId": "974679eb-ba5e-9862-78e9-769d1be71fbd",
+    "AddedById": "4ce8e96f-b3f9-4510-8e8c-02d099e1f3bd",
+    "Topic": "methods",
+    "Text": "hello world",
+    "VideoUrl": "Provide a concise definition of an adjective.",
+    "PublicId": "002",
+    "DateCreated": "2023-05-23T10:00:00Z",
+    "DateUpdated": "2023-05-23T10:00:00Z",
+    "IsDeleted": false
+
+  },
+  {
+    "Id": "1eaf47dc-890d-4a2e-9a8b-d1e3b8ca56c2",
+    //"CourseId": "04a6605e-83da-385a-7a31-12ad5cfe41c6",
+    "CourseId": "974679eb-ba5e-9862-78e9-769d1be71fbd",
+    //"AddedById": "36e318aa-6d02-46d9-8048-3e2a8182a6d3",
+    "AddedById": "311c0cf1-7c88-e221-c4ff-38ce6418a005",
+    "Topic": "methods and functions",
+    "Text": "hello world",
+    "VideoUrl": "Provide a concise definition of an adjective and noun.",
+    "PublicId": "003",
+    "DateCreated": "2023-06-23T10:00:00Z",
+    "DateUpdated": "2023-06-23T10:00:00Z",
+    "IsDeleted": false
+
+  }
+
+
+]
